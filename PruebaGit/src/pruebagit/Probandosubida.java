@@ -10,5 +10,8 @@ package pruebagit;
  * @author jordans
  */
 public class Probandosubida {
+    int perro;
     
-}
+    
+    }
+
