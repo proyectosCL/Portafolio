@@ -5,6 +5,8 @@
  */
 package pruebagit;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Celso
@@ -20,6 +22,10 @@ public class PruebaGit {
         int numero;
         System.out.println("Hola Celso :D");
         System.out.println("Modificacion inversa desde Github");
+        System.out.println("Wena!");
+        JOptionPane.showConfirmDialog(null, "asd");
     }
+
+    
     
 }
