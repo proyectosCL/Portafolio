@@ -23,7 +23,7 @@ public class PruebaGit {
         System.out.println("Hola Celso :D");
         System.out.println("Modificacion inversa desde Github");
         System.out.println("Wena!");
-        JOptionPane.showConfirmDialog(null, "se ve?");
+        JOptionPane.showConfirmDialog(null, "asd");
     }
 
     
